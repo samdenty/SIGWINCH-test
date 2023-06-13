@@ -1,0 +1,5 @@
+{
+    "stackblitz": {
+        "startCommand": "node index.js"
+    }
+}
